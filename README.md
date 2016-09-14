@@ -13,8 +13,7 @@
 
 
 # Screenshot
-![shot](https://raw.githubusercontent.com/qiujuer/UPMiss/master/arts/shot.png)
-
+![shot](https://github.com/xiaole0310/MyMusicPlayer/blob/master/music/src/main/res/drawable-ldpi/music1.png)
 
 ## Feedback
 
