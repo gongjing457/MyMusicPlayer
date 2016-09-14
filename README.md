@@ -14,6 +14,8 @@
 
 # Screenshot
 ![shot](https://github.com/xiaole0310/MyMusicPlayer/blob/master/music/src/main/res/drawable-ldpi/music1.png)
+(https://github.com/xiaole0310/MyMusicPlayer/blob/master/music/src/main/res/drawable-ldpi/music2.png)
+
 
 ## Feedback
 
