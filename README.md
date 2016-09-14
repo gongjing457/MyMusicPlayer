@@ -1,9 +1,6 @@
 # MyMusicPlayer
+[`MyMusicPlayer`](https://github.com/xiaole0310/LoginButtons)
 开源的音乐程序，模仿百度音乐很炫的。
-
-# UPMiss
-UPMiss open source, use MVP. UPMiss is birthday management software.
-
 
 # Links
 [`App Link`](https://github.com/xiaole0310/MyMusicPlayer)
