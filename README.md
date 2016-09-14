@@ -15,6 +15,12 @@
 # Screenshot
 ![shot](https://github.com/xiaole0310/MyMusicPlayer/blob/master/music/src/main/res/drawable-ldpi/music1.png)
 ![shot](https://github.com/xiaole0310/MyMusicPlayer/blob/master/music/src/main/res/drawable-ldpi/music2.png)
+![shot](https://github.com/xiaole0310/MyMusicPlayer/blob/master/music/src/main/res/drawable-ldpi/music3.png)
+![shot](https://github.com/xiaole0310/MyMusicPlayer/blob/master/music/src/main/res/drawable-ldpi/music4.png)
+![shot](https://github.com/xiaole0310/MyMusicPlayer/blob/master/music/src/main/res/drawable-ldpi/music5.png)
+![shot](https://github.com/xiaole0310/MyMusicPlayer/blob/master/music/src/main/res/drawable-ldpi/music6.png)
+![shot](https://github.com/xiaole0310/MyMusicPlayer/blob/master/music/src/main/res/drawable-ldpi/music7.png)
+![shot](https://github.com/xiaole0310/MyMusicPlayer/blob/master/music/src/main/res/drawable-ldpi/music8.png)
 
 
 ## Feedback
